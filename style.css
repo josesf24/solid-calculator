@@ -1,0 +1,39 @@
+
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #000814 
+}
+
+h4{
+  color: white;
+}
+
+.Calculator-body{
+  background-color: #023e7d;
+  max-width: 300px;
+  padding: 10px;
+  border-radius: 7px;
+}
+
+.col{
+  margin: 1px;
+}
+
+
+#screen-calculator{
+  background-color: white;
+  height: 40px;
+  margin: auto;
+  margin-bottom: 10px;
+}
+
+p{
+  text-align: right;
+  font-size: 25px;
+  font-weight: 600;
+  
+}
